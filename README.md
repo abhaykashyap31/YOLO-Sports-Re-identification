@@ -69,7 +69,6 @@ You can also run to specify path:
 python src/main.py --task 2 --input videos/15sec_input_720.mp4 --model models/model.pt --output output/single_feed_output.mp4
 ```
 
-> **Note:** If you do not specify both `--input` and `--output`, the script will show an error and exit.
 
 ## Notes
 - No GUI windows are shown; all results are saved as videos in `output/`.
