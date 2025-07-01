@@ -58,7 +58,7 @@ python src/main.py --task 1 --broadcast videos/broadcast.mp4 --tacticam videos/t
 **You must specify both `--input` and `--output` arguments for Task 2.**
 Run:
 ```bash
-python src/main.py --task 1
+python src/main.py --task 2
 ```
 You can also run to specify path:
 ```bash
