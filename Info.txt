@@ -1,0 +1,6 @@
+tacticam.mp4 = https://drive.google.com/uc?id=1bcurg0MyiyCTRp4A0vkdb_0JP_aGQ6da
+broadcast.mp4 = https://drive.google.com/uc?id=1k0t1Wjr2SF53Qn7pTuvgR2cWopZJ6rxw
+15sec_input_720.mp4 = https://drive.google.com/uc?id=1E_HKcKiF9MRIAJn3LkGROJSs6emLwhBe
+model.pt = https://drive.google.com/uc?id=166mRYTDRMWPaSSZOFvbKuWIEmditTdan
+
+folder = https://drive.google.com/drive/folders/1a5hYD1XH2SkqOftPoJ7SssiaS2pt_a5e?usp=sharing
