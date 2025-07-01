@@ -15,7 +15,7 @@ This project implements two solutions for player re-identification in sports ana
 - `report.md` — Project report and methodology
 
 ## Setup
-2. **Set up environment:**
+1. **Set up environment:**
  ``` bash 
    python -m venv venv
    venv/Scripts/Activate # For Windows 
