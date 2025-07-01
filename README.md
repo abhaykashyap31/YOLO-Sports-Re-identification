@@ -15,12 +15,16 @@ This project implements two solutions for player re-identification in sports ana
 - `report.md` — Project report and methodology
 
 ## Setup
-
-1. **Install dependencies:**
+2. **Set up environment:**
+ ``` bash 
+   python -m venv venv
+   venv/Scripts/Activate # For Windows 
+   ```
+2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-2. **Download all required files and prepare folders:**
+3. **Download all required files and prepare folders:**
    ```bash
    python src/main.py --download
    ```
