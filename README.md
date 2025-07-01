@@ -55,7 +55,7 @@ python src/main.py --task 1 --broadcast videos/broadcast.mp4 --tacticam videos/t
 - **Output:**
   - `output/single_feed_output.mp4` (single feed video with IDs)
 
-**You must specify both `--input` and `--output` arguments for Task 2.**
+**You can specify both `--input` and `--output` arguments for Task 2.**
 Run:
 ```bash
 python src/main.py --task 2
